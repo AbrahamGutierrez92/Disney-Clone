@@ -2,7 +2,7 @@
   "name": "youtube-disney-clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://abrahamgutierrez92.github.io/",
+  "homepage": "https://abrahamgutierrez92.github.io/Disney-Clone",
   "dependencies": {
     "@reduxjs/toolkit": "^1.5.1",
     "@testing-library/jest-dom": "^5.11.4",
