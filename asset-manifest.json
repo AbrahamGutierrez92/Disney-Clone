@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Disney-Clone/static/css/main.fa46e38d.chunk.css",
-    "main.js": "/Disney-Clone/static/js/main.f970c539.chunk.js",
-    "main.js.map": "/Disney-Clone/static/js/main.f970c539.chunk.js.map",
+    "main.js": "/Disney-Clone/static/js/main.c7cc5a23.chunk.js",
+    "main.js.map": "/Disney-Clone/static/js/main.c7cc5a23.chunk.js.map",
     "runtime-main.js": "/Disney-Clone/static/js/runtime-main.d0dddbba.js",
     "runtime-main.js.map": "/Disney-Clone/static/js/runtime-main.d0dddbba.js.map",
     "static/css/2.94641afa.chunk.css": "/Disney-Clone/static/css/2.94641afa.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.94641afa.chunk.css",
     "static/js/2.065cd903.chunk.js",
     "static/css/main.fa46e38d.chunk.css",
-    "static/js/main.f970c539.chunk.js"
+    "static/js/main.c7cc5a23.chunk.js"
   ]
 }
